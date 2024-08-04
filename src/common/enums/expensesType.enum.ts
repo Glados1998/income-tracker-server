@@ -1,4 +1,4 @@
-export enum ExpenseType {
+export enum ExpensesTypeEnum {
     FOOD = 'food',
     RENT = 'rent',
     UTILITIES = 'utilities',

@@ -1,4 +1,4 @@
-export enum IncomeType {
+export enum IncomeTypeEnum {
     SALARY = 'salary',
     PENSION = 'pension',
     TAX_RETURN = 'tax_return',

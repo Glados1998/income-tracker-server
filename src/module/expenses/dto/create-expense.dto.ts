@@ -1,5 +1,4 @@
 export class CreateExpenseDto {
-    description: string;
-    amount: number;
     type: string;
+    amount: number;
 }
