@@ -5,22 +5,22 @@ import { UpdateExpenseDto } from './dto/update-expense.dto';
 @Injectable()
 export class ExpensesService {
   create(createExpenseDto: CreateExpenseDto) {
-    return 'This action adds a new expense';
+    return
   }
 
   findAll() {
-    return `This action returns all expenses`;
+    return
   }
 
   findOne(id: number) {
-    return `This action returns a #${id} expense`;
+    return
   }
 
   update(id: number, updateExpenseDto: UpdateExpenseDto) {
-    return `This action updates a #${id} expense`;
+    return
   }
 
   remove(id: number) {
-    return `This action removes a #${id} expense`;
+    return
   }
 }
